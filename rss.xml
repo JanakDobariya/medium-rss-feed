@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-  <channel>
-    <title>Automated Medium Blog</title>
-    <link>https://janakdobariya.github.io/medium-rss-feed/</link>
-    <description>Fully automated posts from n8n</description>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?> <rss version="2.0">   <channel>     <title>Automated Medium Blog</title>     <link>https://janakdobariya.github.io/medium-rss-feed/</link>     <description>Fully automated posts from n8n</description>      <item>       <title>How Automation with n8n Saves Time</title>       <description><![CDATA[# How Automation with n8n Saves Time  Automation helps developers and creators reduce repetitive work.  Using tools like n8n, workflows can be automated without writing complex code.  This allows you to focus on creativity, learning, and building real value.]]></description>       <pubDate>Thu, 22 Jan 2026 10:52:50 GMT</pubDate>       <guid>1769079170507</guid>     </item>    </channel> </rss>
